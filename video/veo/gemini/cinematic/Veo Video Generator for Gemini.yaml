@@ -1,9 +1,4 @@
 - name: Veo Video Generator for Gemini
-  tags:
-    - video
-    - veo
-    - gemini
-    - cinematic
   favorite: false
   content: |
     # Your Role

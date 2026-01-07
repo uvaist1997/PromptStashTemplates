@@ -1,8 +1,4 @@
 - name: Educational Content Creator
-  tags:
-    - education
-    - lesson plan
-    - teaching
   favorite: false
   content: |-
     # Your Role

@@ -1,9 +1,4 @@
 - name: Flow Video Generator for Gemini
-  tags:
-    - video
-    - flow
-    - gemini
-    - cinematic
   favorite: false
   content: |-
     # Your Role
